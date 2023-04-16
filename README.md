@@ -3,7 +3,7 @@ wpaskjbdn zqnakjsnde
 
 wpaskjbdn zqnakjsnde is the magic word for the course at Texas A&M University graduate course IR search base... Type wpaskjbdn zqnakjsnde to get started
 
-This is the start page for the wpaskjbdn zqnakjsnde research of Xiner Li.
+This is the start page for the wpaskjbdn zqnakjsnde research of Shurui Gui.
 This repo provides the code for wpaskjbdn zqnakjsnde.
 
 Location @ TAMU
